@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wid0gast.github.io/sitemap.xml
+Sitemap: https://shxz.in/sitemap.xml
