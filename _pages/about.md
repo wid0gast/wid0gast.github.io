@@ -20,8 +20,8 @@ latest_posts:
   enabled: false
 ---
 
-I work on making language models less broken — fairer, more honest, and better aligned with how humans actually think and communicate.
+I work on making language models fairer, more honest, and better aligned with how humans actually think and communicate. I'm particularly interested in NLP, fairness in language models, and mechanistic interpretability.
 
-My research sits at the intersection of NLP and the messier parts of human behavior: how LLMs reproduce bias, how people are persuaded through conversation, how empathy manifests in dialogue, and how content moderation systems fail when pushed. I published at EMNLP, ACL, AAAI, and WASSA in 2024, and I have ongoing work on adversarial robustness in toxicity classifiers and the dynamics of human-LLM conversations on political topics.
+I studied Computer Science at [BITS Pilani](https://www.bits-pilani.ac.in), where I also TA'd Graph Mining and Neural Networks. During my undergrad I spent a year doing research at the [SMOL Lab](https://www.smolproject.com) at the [National University of Singapore](https://www.nus.edu.sg) with [Prof. Kokil Jaidka](https://profile.nus.edu.sg/fass/cnmkj/), and the summer before that at [Adobe's MDSR Lab](https://adobe.mdsr.live). I published at EMNLP, ACL, AAAI, and WASSA in 2024. I currently work as an AI Research Engineer at [AlphaSense](https://www.alpha-sense.com).
 
-I did my undergrad at [BITS Pilani](https://www.bits-pilani.ac.in/), then spent time at the [National University of Singapore](https://www.nus.edu.sg/) doing research with the [Jaidka Lab](https://www.jaidkalab.com/). I currently work as an AI researcher at [AlphaSense](https://www.alpha-sense.com/), where I work on applied NLP for financial intelligence.
+Outside research, I have strong opinions about sci-fi and fantasy books, and I take board games perhaps more seriously than I should.
